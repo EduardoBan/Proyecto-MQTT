@@ -1,0 +1,286 @@
+2025-04-16T13:13:32.688Z : Datos de la BD: Energia : 12345
+2025-04-16T13:13:32.688Z : MQTT cliente conectado correctamente, fecha: 16/4/2025, 10:13:49
+2025-04-16T13:13:32.686Z : Dato Body Json BBB
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z : Nombre Pto medicion: Energia
+2025-04-16T13:13:32.686Z :  Etiqueta:A1 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222233,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":6}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A2 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222234,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":18}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A3 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222235,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":19}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A4 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222236,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":20}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A5 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222237,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":21}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A6 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222238,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":22}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A7 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222239,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":23}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A8 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222240,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":24}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A9 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222241,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":25}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A10 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222242,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":26}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A11 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222243,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":27}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A12 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:13:32.686Z : grabarRegistroBD Nuevo registro guardado:{"Id":222244,"Valor":227.44,"FechaHoraCreacion":1744809231,"FechaHoraRegistro":"1744223012","PuertoES_Id":28}
+2025-04-16T13:13:32.686Z : Dato grabado correctamente en la BD 
+2025-04-16T13:13:32.686Z : [object Object]
+2025-04-16T13:13:32.686Z :  Etiqueta:A13 -> puerto E/S Id Nº: Error
+2025-04-16T13:13:32.686Z : Error no existe Etiqueta: A13 asociada a un puerto 3
+2025-04-16T13:24:25.660Z : Servidor Express iniciado en el puerto:
+5000
+2025-04-16T13:24:25.660Z : Servidor MQTT iniciado en el puerto: 
+1883
+2025-04-16T13:24:25.660Z : Base de Datos, la conexión se ha establecido exitosamente.
+2025-04-16T13:24:25.660Z : Datos de la BD: Energia : 12345
+2025-04-16T13:24:25.660Z : MQTT cliente conectado correctamente, fecha: 16/4/2025, 10:25:00
+2025-04-16T13:24:25.658Z : Dato Body Json BBB
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z : Nombre Pto medicion: Energia
+2025-04-16T13:24:25.658Z :  Etiqueta:A1 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222245,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":6}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A2 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222246,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":18}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A3 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222247,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":19}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A4 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222248,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":20}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A5 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222249,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":21}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A6 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222250,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":22}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A7 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222251,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":23}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A8 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222252,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":24}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A9 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222253,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":25}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A10 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222254,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":26}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A11 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222255,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":27}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A12 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:24:25.658Z : grabarRegistroBD Nuevo registro guardado:{"Id":222256,"Valor":227.44,"FechaHoraCreacion":1744809902,"FechaHoraRegistro":"1744223012","PuertoES_Id":28}
+2025-04-16T13:24:25.658Z : Dato grabado correctamente en la BD 
+2025-04-16T13:24:25.658Z : [object Object]
+2025-04-16T13:24:25.658Z :  Etiqueta:A13 -> puerto E/S Id Nº: Error
+2025-04-16T13:24:25.658Z : Error la ttiqueta:A13NO esta asociada a un puerto 
+2025-04-16T13:26:06.451Z : Servidor Express iniciado en el puerto:
+5000
+2025-04-16T13:26:06.451Z : Servidor MQTT iniciado en el puerto: 
+1883
+2025-04-16T13:26:06.451Z : Base de Datos, la conexión se ha establecido exitosamente.
+2025-04-16T13:26:06.451Z : Datos de la BD: Energia : 12345
+2025-04-16T13:26:06.451Z : MQTT cliente conectado correctamente, fecha: 16/4/2025, 10:26:12
+2025-04-16T13:26:06.449Z : Dato Body Json BBB
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z : Nombre Pto medicion: Energia
+2025-04-16T13:26:06.449Z :  Etiqueta:A1 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222257,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":6}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A2 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222258,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":18}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A3 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222259,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":19}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A4 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222260,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":20}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A5 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222261,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":21}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A6 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222262,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":22}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A7 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222263,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":23}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A8 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222264,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":24}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A9 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222265,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":25}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A10 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222266,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":26}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A11 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222267,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":27}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A12 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222268,"Valor":227.44,"FechaHoraCreacion":1744809973,"FechaHoraRegistro":"1744223012","PuertoES_Id":28}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A13 -> puerto E/S Id Nº: Error
+2025-04-16T13:26:06.449Z : Error, la etiqueta:A13, NO esta asociada a un puerto 
+2025-04-16T13:26:06.451Z : Datos de la BD: Energia : 12345
+2025-04-16T13:26:06.451Z : MQTT cliente conectado correctamente, fecha: 16/4/2025, 10:34:52
+2025-04-16T13:26:06.449Z : Dato Body Json BBB
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z : Nombre Pto medicion: Energia
+2025-04-16T13:26:06.449Z :  Etiqueta:A1 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222269,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":6}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A2 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222270,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":18}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A3 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222271,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":19}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A4 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222272,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":20}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A5 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222273,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":21}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A6 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222274,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":22}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A7 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222275,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":23}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A8 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222276,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":24}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A9 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222277,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":25}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A10 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222278,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":26}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A11 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222279,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":27}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A12 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222280,"Valor":227.44,"FechaHoraCreacion":1744810623,"FechaHoraRegistro":"1744223012","PuertoES_Id":28}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A13 -> puerto E/S Id Nº: Error
+2025-04-16T13:26:06.449Z : Error, la etiqueta:A13, NO esta asociada a un puerto 
+2025-04-16T13:26:06.449Z : Dato Body Json BBB
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z : Nombre Pto medicion: Energia
+2025-04-16T13:26:06.449Z :  Etiqueta:A0 -> puerto E/S Id Nº: Error
+2025-04-16T13:26:06.449Z : Error, la etiqueta:A0, NO esta asociada a un puerto 
+2025-04-16T13:26:06.449Z :  Etiqueta:A2 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222281,"Valor":227.44,"FechaHoraCreacion":1744811189,"FechaHoraRegistro":"1744223012","PuertoES_Id":18}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A3 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222282,"Valor":227.44,"FechaHoraCreacion":1744811189,"FechaHoraRegistro":"1744223012","PuertoES_Id":19}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A4 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222283,"Valor":227.44,"FechaHoraCreacion":1744811189,"FechaHoraRegistro":"1744223012","PuertoES_Id":20}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A5 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222284,"Valor":227.44,"FechaHoraCreacion":1744811189,"FechaHoraRegistro":"1744223012","PuertoES_Id":21}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A6 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222285,"Valor":227.44,"FechaHoraCreacion":1744811189,"FechaHoraRegistro":"1744223012","PuertoES_Id":22}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A7 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222286,"Valor":227.44,"FechaHoraCreacion":1744811190,"FechaHoraRegistro":"1744223012","PuertoES_Id":23}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A8 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222287,"Valor":227.44,"FechaHoraCreacion":1744811190,"FechaHoraRegistro":"1744223012","PuertoES_Id":24}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A9 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222288,"Valor":227.44,"FechaHoraCreacion":1744811190,"FechaHoraRegistro":"1744223012","PuertoES_Id":25}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A10 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222289,"Valor":212.44,"FechaHoraCreacion":1744811190,"FechaHoraRegistro":"1744223012","PuertoES_Id":26}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A11 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222290,"Valor":227.44,"FechaHoraCreacion":1744811190,"FechaHoraRegistro":"1744223012","PuertoES_Id":27}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A12 -> puerto E/S Id Nº: [object Object]
+2025-04-16T13:26:06.449Z : grabarRegistroBD Nuevo registro guardado:{"Id":222291,"Valor":227.44,"FechaHoraCreacion":1744811190,"FechaHoraRegistro":"1744223012","PuertoES_Id":28}
+2025-04-16T13:26:06.449Z : Dato grabado correctamente en la BD 
+2025-04-16T13:26:06.449Z : [object Object]
+2025-04-16T13:26:06.449Z :  Etiqueta:A13 -> puerto E/S Id Nº: Error
+2025-04-16T13:26:06.449Z : Error, la etiqueta:A13, NO esta asociada a un puerto 
+2025-06-12T11:09:58.443Z : Servidor Express iniciado en el puerto:
+5000
+2025-06-12T11:09:58.443Z : Servidor MQTT iniciado en el puerto: 
+1883
+2025-06-12T11:09:58.443Z : Base de Datos, la conexión se ha establecido exitosamente.
