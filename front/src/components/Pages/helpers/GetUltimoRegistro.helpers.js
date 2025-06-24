@@ -1,36 +1,20 @@
-import { useEffect, useState } from "react";
-import axios from "axios";
+import { useApi } from '../../../hooks/useApi';
 
-
-export function GetUltimosRegistros(PuertoEs=1) {
-  const [data1, setData1] = useState([]);
-  useEffect(() => {
-    axios
-      .get(`http://64.181.164.73:5000/ultimosregistros/${PuertoEs}`)
-      .then((res) =>  setData1(res.data))
-      .catch((err) => console.log(err));
-  }, [PuertoEs]);
- 
-  console.log("------Valor-Ultimos REgistros-Helper---------");
-  console.log(data1);
-
-  return(data1);
+export function GetUltimosRegistros(PuertoEs = 1) {
+  const { data } = useApi(`/ultimosregistros/${PuertoEs}`, [PuertoEs]);
+  return data || [];
 }
 
-
-export default function GetUltimoRegistro(PuertoEs=1) {
-  const [data, setData] = useState([]);
-  useEffect(() => {
-    async function getData() {
-      const response = await axios.get(`http://64.181.164.73:5000/ultimoregistro/${PuertoEs}`);
-      setData(response.data);
-    }
-    getData();
-  }, [PuertoEs]);
-
-  console.log("------Valor-Ultimo registro-Helper---------");
-  console.log(data);
-  
-  return(data);
+export default function GetUltimoRegistro(PuertoEs = 1) {
+  const { data } = useApi(`/ultimoregistro/${PuertoEs}`, [PuertoEs]);
+  return data || {};
 }
 
+// Hook versions for better performance
+export const useUltimosRegistros = (PuertoEs = 1) => {
+  return useApi(`/ultimosregistros/${PuertoEs}`, [PuertoEs]);
+};
+
+export const useUltimoRegistro = (PuertoEs = 1) => {
+  return useApi(`/ultimoregistro/${PuertoEs}`, [PuertoEs]);
+};
